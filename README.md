@@ -11,7 +11,7 @@ npm install
 ```
 
 ## go to https://unsplash.com/ 
-get an api key from unsplash.com and add a .env file to the base application, add an api key with name REACT_APP_apiAccessKey.
+get an api key from unsplash.com and add a .env file to the root of project folder, add an api key with name REACT_APP_apiAccessKey.
 
 
 ## Running the Server App
